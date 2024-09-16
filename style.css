@@ -145,7 +145,7 @@ body{
 .socials{
     position: absolute;
     bottom: 40px;
-    width: 170px;
+    width: 250px;
     display: flex;
     justify-content: space-between;
 }
